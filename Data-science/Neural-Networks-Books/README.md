@@ -1,0 +1,27 @@
+# Maschine Learning Books
+
+- Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks
+- Convolutional Neural Networks in Visual Computing
+- Deep Learning and Convolutional Neural Networks for Medical Image Computing                         
+- Deep Learning: Practical Neural Networks with Java  
+- Design of Intelligent Systems Based on Fuzzy Logic, Neural Networks and Nature-Inspired Optimization  
+- Neural Networks and Learning Machines  
+- Elements of Artificial Neural Networks  
+- FPGA Implementations of Neural Networks  
+- Neural Network Systems Techniques and Applications  
+- Guide to Convolutional Neural Networks  
+- Introduction to Artificial Intelligence
+- Introduction to the Math of Neural Networks
+- Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python                         
+- Neural Networks &minus; A Visual Introduction For Beginners   
+- Neural Network Toolbox User's Guide
+- Artificial Neural Networks: A Practical Course  
+- Neural Networks and Statistical Learning  
+- Neural Networks for Pattern Recognition  
+- Neural Networks with R   
+- Neural Networks: Methodology and Applications  
+- Neural Networks and Deep Learning  
+- New Directions in Neural Networks  
+- TensorFlow in 1 Day: Make your own Neural Network  
+- The Application of Neural Networks in the Earth System Sciences  
+- Artificial Intelligence for Humans, Volume 3: Neural Networks and Deep Learning 
